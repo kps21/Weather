@@ -1,0 +1,33 @@
+/* App.css */
+
+body {
+  /* background-color: #dbdbdb; */
+  background: url(https://wallpapercave.com/wp/a1tlfX1.jpg);
+}
+
+
+.card-img-top {
+  width: 40%;
+}
+
+.card {
+  border: none
+}
+
+.weather-text.card-title.h5 {
+  color: white;
+}
+
+p.weather-text.card-text {
+  color: white;
+}
+
+a.navigation-link {
+  color: #5558e3;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+img.card-img-top.mx-auto.web {
+  width: 100%;
+}
